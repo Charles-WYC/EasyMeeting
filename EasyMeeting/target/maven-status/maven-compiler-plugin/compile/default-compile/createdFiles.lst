@@ -1,0 +1,9 @@
+em\controllers\UserController.class
+em\daos\UserDao.class
+en\support\Authentication.class
+en\support\AccessTokenInfo.class
+em\services\UserService.class
+em\models\User.class
+em\services\SpeechToText.class
+en\support\Authentication$RenewTask.class
+em\Application.class
